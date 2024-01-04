@@ -1,2 +1,2 @@
-# Html-Css-practice
-html and css
+# html-css-practice
+basic of html and css
